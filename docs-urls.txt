@@ -1,0 +1,8 @@
+# actual docs
+
+https://raw.githubusercontent.com/openssl/openssl/master/doc/man3/X509_STORE_CTX_get_error.pod
+https://raw.githubusercontent.com/openssl/openssl/master/doc/man1/openssl-verify.pod.in
+
+# botan
+
+https://raw.githubusercontent.com/randombit/botan/master/src/lib/x509/cert_status.cpp
