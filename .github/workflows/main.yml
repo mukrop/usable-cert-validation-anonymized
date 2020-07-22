@@ -21,7 +21,7 @@ jobs:
       with:
           python-version: '3.7'
     - name: Download artifact
-      uses: valcikeric/download-base-artifact@v1.0.1
+      uses: valcikeric/download-base-artifact@master
       with:
         artifact: cached-docs
         path: cached-docs

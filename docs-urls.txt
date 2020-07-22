@@ -1,7 +1,15 @@
-# actual docs
+# openSSL
 
 https://raw.githubusercontent.com/openssl/openssl/master/doc/man3/X509_STORE_CTX_get_error.pod
 https://raw.githubusercontent.com/openssl/openssl/master/doc/man1/openssl-verify.pod.in
+
+# mbedTLS
+
+https://raw.githubusercontent.com/ARMmbed/mbedtls/master/library/x509_crt.c
+
+# gnuTLS
+
+https://www.gnutls.org/manual/html_node/Verifying-X_002e509-certificate-paths.html
 
 # botan
 
