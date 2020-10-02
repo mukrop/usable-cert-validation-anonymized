@@ -15,7 +15,7 @@ ERRORS_ALL=$(wildcard $(ERRORS_FOLDER)/*/*.yml)
 
 all: $(CERT_GENERATOR_FOLDER)/generate $(CERTS_BUILD_ALL) $(CERTS_ARCHIVES_ALL)
 
-$(CERT_GENERATOR_FOLDER)/generate:
+$(CERT_GENERATOR_FOLDER)/generate: $(CERT_GENERATOR_FOLDER)/*.go
 	@cd $(CERT_GENERATOR_FOLDER) && go build -o generate *.go
 
 # Generate certificates
