@@ -44,6 +44,11 @@ As of late 2019, we are gradually contacting the library developers to collect f
 
 Below we list our current and past related work (in the form of academic papers) on the usability of X.509 certificate ecosystem.
 
+{:.text-muted}
+This section is anonymized due to the review process for USENIX Security Symposium 2021.
+
+<!--
+
 ## Trust perceptions in flawed TLS certificates
 
 Our paper [Will You Trust This TLS Certificate? Perceptions of People Working in IT](https://crocs.fi.muni.cz/public/papers/acsac2019) was published at the Annual Computer Security Applications Conference (ACSAC) 2019.
@@ -65,5 +70,7 @@ Our paper in collaboration with our colleague [Lydia Kraus](https://crocs.fi.mun
 > **Abstract:** The creation of the World Wide Web (WWW) in the early 1990’s finally made the Internet accessible to a wider part of the population. With this increase in users, security became more important. To address confidentiality and integrity requirements on the web, Netscape—by then a major web browser vendor—presented the Secure Socket Layer (SSL), later versions of which were renamed to Transport Layer Security (TLS). In turn, this necessitated the introduction of both security indicators in browsers to inform users about the TLS connection state and also of warnings to inform users about potential errors in the TLS connection to a website. Looking at the evolution of indicators and warnings, we find that the qualitative data on security indicators and warnings, i.e., screen shots of different browsers over time is inconsistent. Hence, in this paper we outline our methodology for collecting a comprehensive data set of web browser security indicators and warnings, which will enable researchers to better understand how security indicators and TLS warnings in web browsers evolved over time.
 
 Based on the ideas presented in this paper, we started developing a tool for automatic collection of SSL/TLS warnings and errors in different browser. The tool **TLS warning collector** can be found on [GitHub](https://github.com/crocs-muni/tls-warning-collector).
+
+-->
 
 </div></div>

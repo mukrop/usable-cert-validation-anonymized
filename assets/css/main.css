@@ -1,3 +1,15 @@
+.fixed-top2 {
+    top: 60px;
+}
+
+.banner {
+    height: 60px;
+}
+
+main {
+    margin-top: 60px;
+}
+
 /* Common HTML tags */
 
 body {
