@@ -45,7 +45,7 @@ As of late 2019, we are gradually contacting the library developers to collect f
 Below we list our current and past related work (in the form of academic papers) on the usability of X.509 certificate ecosystem.
 
 {:.text-muted}
-This section is anonymized due to the review process for USENIX Security Symposium 2021.
+This section is anonymized due to the review process for the Symposium on Usable Privacy and Security 2021.
 
 <!--
 
